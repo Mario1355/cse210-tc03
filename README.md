@@ -1,2 +1,1 @@
-Hello My name is Ronaldo Schmidt
-I'm 22 years old. I am from Brazil. I currently work as an IT support assistant.
+Hello my name Elizabeth. I am from Mexico and am currently working as a Bilingual Translator.
