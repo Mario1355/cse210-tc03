@@ -1,5 +1,6 @@
 
-Hello my name is Kevin Espinoza, I am from Peru. I am 21 years 
+Hello my name is Kevin Espinoza, I am from Peru. I am 21 years.
+
 I'm Benjamin Welsch, from Pennsylvania. I'm 23 and work in Idaho as a drafter for a civil engineering firm.
 
 Hello my name Elizabeth. I am from Mexico and am currently working as a Bilingual Translator.
