@@ -1,0 +1,7 @@
+from clark import add_tyyr
+from schmidt import add_schmidt
+
+print("Welcome to our collaborative program.")
+
+add_tyyr()
+add_schmidt()
