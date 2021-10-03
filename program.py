@@ -6,4 +6,4 @@ print("Welcome to our collaborative program.")
 
 add_tyyr()
 add_schmidt()
-Elizabeth()
+myname()
